@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1778596785 source:/home/alunos/Documentos/pilhas/main.cpp
+	"pilha.h"
+
+1778597641 /home/alunos/Documentos/pilhas/pilha.h
+	<iostream>
+
+1778596580 source:/home/alunos/Documentos/pilhas/pilha.cpp
+	"pilha.h"
+
