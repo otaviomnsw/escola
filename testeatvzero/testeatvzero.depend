@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1779642411 source:c:\users\eu\documents\outros bglh\python sla\not python\testeatvzero\main.cpp
+	"pilha.h"
+
+1779642359 c:\users\eu\documents\outros bglh\python sla\not python\testeatvzero\pilha.h
+	<iostream>
+
+1779642452 source:c:\users\eu\documents\outros bglh\python sla\not python\testeatvzero\pilha.cpp
+	"pilha.h"
+
