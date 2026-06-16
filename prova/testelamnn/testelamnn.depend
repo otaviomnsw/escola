@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1781563073 source:c:\users\eu\documents\outros bglh\python sla\not python\testelamnn\fila.cpp
+	"fila.h"
+
+1781563073 c:\users\eu\documents\outros bglh\python sla\not python\testelamnn\fila.h
+	<iostream>
+
+1781566771 source:c:\users\eu\documents\outros bglh\python sla\not python\testelamnn\main.cpp
+	"fila.h"
+	"fila2.h"
+
+1781565354 c:\users\eu\documents\outros bglh\python sla\not python\testelamnn\fila2.h
+	<iostream>
+
+1781568442 source:c:\users\eu\documents\outros bglh\python sla\not python\testelamnn\fila2.cpp
+	"fila2.h"
+
