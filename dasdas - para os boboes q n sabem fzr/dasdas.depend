@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1794920652 source:/home/alunos/Documentos/dasdas/main.cpp
+	"lista.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1794920422 source:/home/alunos/Documentos/dasdas/lista.cpp
+	"lista.h"
+
+1794919161 /home/alunos/Documentos/dasdas/lista.h
+	<iostream>
+	<vector>
+	<list>
+	<string>
+
